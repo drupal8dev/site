@@ -3,7 +3,7 @@ layout: post
 title: "Installing Drupal 8"
 date: 2013-10-15 01:20
 comments: true
-categories: drupal8, installation
+categories: drupal8 installation
 ---
 
 {% img center /images/drupal8-setup-screen.png 700 380 'Drupal 8 Installation' 'Drupal 8 Installation' %}

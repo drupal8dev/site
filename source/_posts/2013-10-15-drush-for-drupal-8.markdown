@@ -3,7 +3,7 @@ layout: post
 title: "Drush for Drupal 8"
 date: 2013-10-15 02:02
 comments: true
-categories: drupal8, drush
+categories: drupal8 drush
 ---
 
 Drush 6, the current stable version, does not work with Drupal 8. We will need Drush 7 for that. See https://github.com/drush-ops/drush#drush-versions.
