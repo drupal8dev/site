@@ -6,7 +6,7 @@ comments: true
 categories: drupal8
 ---
 
-Fix permission for your files directory:
+Fix permissions for your files directory:
 
 ```
 $ sudo chmod -R 777 sites/default/files
